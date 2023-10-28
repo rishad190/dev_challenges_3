@@ -24,10 +24,13 @@ a {
 /* Add some styles for body*/
 body {
   min-height: 100vh;
+  background-color: #f2f9fe;
   max-width: 1280px;
   margin: 0 auto;
   font-family: "Poppins", sans-serif;
   line-height: 1.5;
+  display: flex;
+  justify-content: center;
 }
 
 @media screen and (min-width: 720px) {
